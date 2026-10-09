@@ -90,11 +90,7 @@ I enjoy turning ideas into working products, exploring new technologies, and imp
 
 ---
 
-
-
----
-
-## `04` — GitHub Analytics
+## `03` — GitHub Analytics
 
 <div align="center">
 
@@ -110,7 +106,7 @@ I enjoy turning ideas into working products, exploring new technologies, and imp
 
 ---
 
-## `05` — What I'm Working Toward
+## `04` — What I'm Working Toward
 
 * 🏗️ Writing maintainable, well-structured software.
 * 🔌 Building reliable REST APIs and database-backed applications.
@@ -121,7 +117,7 @@ I enjoy turning ideas into working products, exploring new technologies, and imp
 
 ---
 
-## `06` — Let's Connect
+## `05` — Let's Connect
 
 <div align="center">
 
