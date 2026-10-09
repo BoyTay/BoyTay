@@ -33,12 +33,6 @@
 
 ## `01` — About Me
 
-```text
-> Initializing developer profile...
-> Loading interests: Software Engineering, AI, Web Development
-> Status: Always learning, always building.
-```
-
 Hi! I'm **Phan Trung Hieu**, a third-year Information Technology student at **Da Lat University**, focusing on **Software Engineering**.
 
 I'm passionate about designing and developing practical software applications, from backend services and databases to user interfaces and AI-powered systems.
