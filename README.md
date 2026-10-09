@@ -84,86 +84,7 @@ I enjoy turning ideas into working products, exploring new technologies, and imp
 
 ---
 
-## `03` — Featured Projects
-
-<div align="center">
-
-  <a href="https://github.com/BoyTay/EduRAG-Al">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BoyTay&repo=EduRAG-Al&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF" alt="EduRAG-Al repository card"/>
-  </a>
-
-</div>
-
-### 🤖 EduRAG-Al — Local AI Knowledge Assistant
-
-A local AI chatbot designed to help university students and academic advisors query university regulations and student-related documents.
-
-**Key areas:**
-
-* Document ingestion and text extraction.
-* Retrieval-Augmented Generation (RAG) for document-grounded answers.
-* Semantic search using vector embeddings and ChromaDB.
-* Local language model inference with Ollama.
-* FastAPI backend for serving application functionality.
-
-**Tech:** `Python` · `FastAPI` · `Ollama` · `ChromaDB` · `RAG`
-
-[Explore repository →](https://github.com/BoyTay/EduRAG-Al)
-
----
-
-<div align="center">
-
-  <a href="https://github.com/BoyTay/BankingApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BoyTay&repo=BankingApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF" alt="BankingApp repository card"/>
-  </a>
-
-</div>
-
-### 💳 BankingApp — Banking & Internal Wallet System
-
-A practical Java application focused on banking and internal wallet workflows, with a desktop interface and REST API architecture.
-
-**Key areas:**
-
-* User authentication and wallet operations.
-* Money transfers and transaction history.
-* Backend API and relational database integration.
-* JavaFX desktop interface.
-* Docker-based development environment.
-
-**Tech:** `Java` · `Spring Boot` · `JavaFX` · `PostgreSQL` · `Docker`
-
-[Explore repository →](https://github.com/BoyTay/BankingApp)
-
----
-
-<div align="center">
-
-  <a href="https://github.com/BoyTay/Nhom7_CulinaryBlog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BoyTay&repo=Nhom7_CulinaryBlog&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF" alt="CulinaryBlog repository card"/>
-  </a>
-
-</div>
-
-### 🍜 Nhom7_CulinaryBlog — Collaborative Culinary Blog
-
-A team-based web development project focused on building a culinary blog, with an emphasis on application structure, maintainability, and collaborative development.
-
-**Key areas:**
-
-* Web application design and feature development.
-* Clean Architecture and CQRS-oriented design.
-* PostgreSQL data modeling.
-* Version control and team collaboration.
-
-**Tech:** `Web Development` · `PostgreSQL` · `Clean Architecture` · `CQRS` · `Git`
-
-[Explore repository →](https://github.com/BoyTay/Nhom7_CulinaryBlog)
-
----
-
-## `04` — GitHub Analytics
+## `03` — GitHub Analytics
 
 <div align="center">
 
@@ -179,7 +100,7 @@ A team-based web development project focused on building a culinary blog, with a
 
 ---
 
-## `05` — What I'm Working Toward
+## `04` — What I'm Working Toward
 
 * 🏗️ Writing maintainable, well-structured software.
 * 🔌 Building reliable REST APIs and database-backed applications.
@@ -190,7 +111,7 @@ A team-based web development project focused on building a culinary blog, with a
 
 ---
 
-## `06` — Let's Connect
+## `05` — Let's Connect
 
 <div align="center">
 
