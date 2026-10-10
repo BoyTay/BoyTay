@@ -33,7 +33,7 @@
 
 ## `01` — About Me
 
-Hi! I'm **Phan Trung Hieu**, a third-year Information Technology student at **Da Lat University**, focusing on **Software Engineering**.
+Hi! I'm **Phan Trung Hieu**, a four-year Information Technology student at **Da Lat University**, focusing on **Software Engineering**.
 
 I'm passionate about designing and developing practical software applications, from backend services and databases to user interfaces and AI-powered systems.
 
