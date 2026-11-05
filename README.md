@@ -88,13 +88,32 @@ I enjoy turning ideas into working products, exploring new technologies, and imp
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=BoyTay&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&text_color=C9D1D9&ring_color=00F5FF" alt="GitHub statistics"/>
+  <!-- Badge động từ shields.io (ổn định, ít khi lỗi) -->
+  <a href="https://github.com/BoyTay?tab=followers">
+    <img src="https://img.shields.io/github/followers/BoyTay?style=for-the-badge&logo=github&logoColor=white&color=00F5FF&labelColor=0D1117" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/BoyTay?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20All-BD00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Repositories"/>
+  </a>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoyTay&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="Most used programming languages"/>
+  <br/><br/>
 
-  <br/>
+  <!-- Biểu đồ đóng góp (dùng ghchart, không phụ thuộc Vercel) -->
+  <a href="https://github.com/BoyTay">
+    <img src="https://ghchart.rshah.org/00F5FF/BoyTay" alt="BoyTay contribution chart" width="85%"/>
+  </a>
 
-  <img src="https://streak-stats.demolab.com?user=BoyTay&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=BD00FF&currStreakLabel=00F5FF" alt="GitHub contribution streak"/>
+  <br/><br/>
+
+  <!--
+    Thẻ thống kê: dùng bản mirror của github-readme-stats.
+    Nếu một mirror bị lỗi, thay domain bằng một trong các mirror khác:
+      - github-readme-stats-sigma-five.vercel.app
+      - github-readme-stats.vercel.app
+    Lưu ý: bản public không đọc được repo private (count_private không có tác dụng).
+  -->
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BoyTay&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&text_color=C9D1D9&ring_color=00F5FF&cache_seconds=86400" alt="GitHub statistics"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BoyTay&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&cache_seconds=86400" alt="Most used programming languages"/>
 
 </div>
 
