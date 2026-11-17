@@ -105,7 +105,7 @@ I enjoy turning ideas into working products, exploring new technologies, and imp
 
   <!--
     Các thẻ dưới đây được GitHub Actions tự sinh mỗi ngày
-    (.github/workflows/profile-summary-cards.yml) và lưu thành file SVG trong repo,
+    (.github/workflows/profile-summary-cards.yml và streak-stats.yml) và lưu thành file SVG trong repo,
     nên không còn phụ thuộc server bên ngoài.
   -->
   <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub statistics"/>
@@ -113,6 +113,10 @@ I enjoy turning ideas into working products, exploring new technologies, and imp
   <br/>
   <img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
   <img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time"/>
+
+  <br/><br/>
+
+  <img src="./profile/streak.svg" alt="GitHub contribution streak"/>
 
 </div>
 
