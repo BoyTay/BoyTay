@@ -97,12 +97,6 @@ I enjoy turning ideas into working products, exploring new technologies, and imp
 
   <br/><br/>
 
-  <a href="https://github.com/BoyTay">
-    <img src="https://ghchart.rshah.org/00F5FF/BoyTay" alt="BoyTay contribution chart" width="85%"/>
-  </a>
-
-  <br/><br/>
-
   <!--
     Các thẻ dưới đây được GitHub Actions tự sinh mỗi ngày
     (.github/workflows/profile-summary-cards.yml và streak-stats.yml) và lưu thành file SVG trong repo,
