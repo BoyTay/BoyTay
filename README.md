@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B33,100:00F5FF&height=220&section=header&text=PHAN%20TRUNG%20HIEU&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20IN%20PROGRESS&descSize=14&descAlignY=58&descColor=00F5FF&animation=fadeIn" width="100%" alt="Cyberpunk neon profile banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B33,100:00F5FF&height=220&section=header&text=Hieu%20Phan&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20IN%20PROGRESS&descSize=14&descAlignY=58&descColor=00F5FF&animation=fadeIn" width="100%" alt="Cyberpunk neon profile banner"/>
 
   <a href="https://github.com/BoyTay">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Building+Practical+Software+Solutions;Backend+%7C+Frontend+%7C+AI+%2F+RAG;Learn.+Build.+Test.+Improve." alt="Typing SVG"/>
